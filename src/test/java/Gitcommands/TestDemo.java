@@ -3,7 +3,8 @@ package Gitcommands;
 public class TestDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Test added from Y1");
+		System.out.println("Test added from Y2");
 
 	}
 
