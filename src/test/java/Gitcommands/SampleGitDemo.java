@@ -8,6 +8,8 @@ public class SampleGitDemo {
 		System.out.println("welcom to Git1");
 		System.out.println("welcom to Git2");
 		System.out.println("welcom to Git3");
+		System.out.println("welcom to Git4");
+		System.out.println("welcom to Git5");
 		
 
 	}
