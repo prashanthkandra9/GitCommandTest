@@ -11,6 +11,9 @@ public class TestDemo {
 		System.out.println("Xperson added code4");
 		
 		System.out.println("Changes in the Dev3 branch only");
+		System.out.println("Changes in the MASTER branch only");
+		System.out.println("Changes in the MASTER branch1 only");
+		System.out.println("Changes in the Dev3 branch only");
 		
 		
 		
